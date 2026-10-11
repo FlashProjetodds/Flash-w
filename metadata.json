@@ -1,0 +1,6 @@
+{
+  "name": "FLASH - Application Sportive Premium",
+  "description": "Plateforme sportive premium, moderne et sécurisée : actualités, marchés, gestion de solde et suivi en temps réel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
